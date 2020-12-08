@@ -6,3 +6,4 @@
 파일변경 cat_pull
 
 파일변경 cat index-2
+파일변경 cat_pull index-2
